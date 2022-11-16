@@ -1,6 +1,6 @@
 # Bincalc
 
-Dumb and simple binary calculator
+Simple binary calculator
 
 ## Dependencies
 
